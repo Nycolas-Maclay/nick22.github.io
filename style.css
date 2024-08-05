@@ -1,3 +1,8 @@
 body {
     background-image: linear-gradient(to right, #96CEB4, #FFEEAD, #FFAD60, #A02334);
 }
+
+h1{
+
+    background-image: linear-gradient(to right, rgb(79, 70, 70), blue);
+}
