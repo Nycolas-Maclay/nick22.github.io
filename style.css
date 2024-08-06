@@ -3,6 +3,10 @@ body {
 }
 
 h1{
-
-    background-image: linear-gradient(to right, rgb(79, 70, 70), blue);
+    text-align: center;
+    color: #A02334;
 }
+
+h2{
+    text-align: center;
+    justify-content: center;
