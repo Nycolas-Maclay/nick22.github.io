@@ -1,13 +1,20 @@
 body {
-    background-image: linear-gradient(to right, #96CEB4, #FFEEAD, #FFAD60, #A02334);
+    background-image: linear-gradient(to right, #C8ACD6, #433D8B, #2E236C, #17153B);
 }
 
 h1{
     text-align: center;
-    color: #A02334;
+    color: #ca3c4f;
 }
 
 h2{
     text-align: center;
     justify-content: center;
+    color: rgb(113, 138, 138);
     
+}
+
+p {
+    text-align: right;
+
+}
