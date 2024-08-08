@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, #C8ACD6, #433D8B, #2E236C, #17153B);
+    background-image: linear-gradient(to right, #4535C1, #478CCF, #36C2CE, #77E4C8);
 }
 
 h1{
@@ -15,6 +15,6 @@ h2{
 }
 
 p {
-    text-align: right;
+    text-align: center;
 
 }
