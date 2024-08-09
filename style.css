@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(to right, #4535C1, #478CCF, #36C2CE, #77E4C8);
+    background-image: url('./download.jpg');
+    background-image: linear-gradient(to right, #E2BBE9, #9B86BD, #7776B3, #5A639C);
 }
 
 h1{
@@ -10,11 +11,12 @@ h1{
 h2{
     text-align: center;
     justify-content: center;
-    color: rgb(113, 138, 138);
+    color: rgb(251, 251, 251);
     
 }
 
 p {
     text-align: center;
+    font-size: 20px;
 
 }
